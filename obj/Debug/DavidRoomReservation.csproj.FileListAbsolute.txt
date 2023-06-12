@@ -1,0 +1,17 @@
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\bin\Debug\DavidRoomreservation.exe.config
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\bin\Debug\DavidRoomreservation.exe
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\bin\Debug\DavidRoomreservation.pdb
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\bin\Debug\EntityFramework.dll
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\bin\Debug\EntityFramework.xml
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomReservation.csproj.AssemblyReference.cache
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomReservation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomreservation.Properties.Resources.resources
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomreservation.Room_Frm.resources
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomReservation.csproj.GenerateResource.cache
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomReservation.csproj.CoreCompileInputs.cache
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomReservation.csproj.CopyComplete
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomreservation.exe
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomreservation.pdb
+C:\Users\Geeks4learning\source\repos\DavidRoomreservation\DavidRoomreservation\obj\Debug\DavidRoomreservation.Form1.resources
